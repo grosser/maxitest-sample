@@ -2,6 +2,6 @@
 require 'maxitest/autorun'
 require 'minitest/reporters'
 
-require './meme'
+require_relative '../meme'
 
 Minitest::Reporters.use! [Minitest::Reporters::RubyMineReporter.new, Minitest::Reporters::ProgressReporter.new]

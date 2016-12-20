@@ -21,6 +21,3 @@ DEPENDENCIES
   maxitest
   minitest-reporters
   rake
-
-BUNDLED WITH
-   1.13.6
